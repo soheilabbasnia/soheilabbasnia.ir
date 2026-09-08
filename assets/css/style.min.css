@@ -2699,15 +2699,15 @@ html.dark select:-webkit-autofill:focus {
 [8. Template Sidebar Custom Style]
 ------------------------------------------------------------------*/
 
-.docroch__sidebar {
+.soheilabbasnia__sidebar {
   clip-path: url(#my-clip-path);
 }
 
-.docroch__sidebar__wrapper .sidebar__menu::-webkit-scrollbar {
+.soheilabbasnia__sidebar__wrapper .sidebar__menu::-webkit-scrollbar {
   display: none;
 }
 
-.docroch__sidebar__wrapper .sidebar__menu {
+.soheilabbasnia__sidebar__wrapper .sidebar__menu {
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
@@ -2802,7 +2802,7 @@ html.dark .portfolio_wrapper .info span {
 }
 
 /*------------------------------------------------------------------
-                THANKS FOR HAVING WITH docroch
+                THANKS FOR HAVING WITH Soheil Abbasnia
 ------------------------------------------------------------------*/
 
 .\*\:relative>* {

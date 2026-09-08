@@ -57,7 +57,7 @@
     }
     mobile_menu(
         '.menu_toggle, .close-menu ',
-        '.mobile-menu, .docroch__app, .menu-overlay'
+        '.mobile-menu, .soheilabbasnia__app, .menu-overlay'
     );
     /* Mobile menu End */
 
@@ -218,7 +218,7 @@
     /* Animated Circle Progress start
     /* ============================================================ */
     function animateElements() {
-        $('.docroch__sidebar .progressCircle').each(function() {
+        $('.soheilabbasnia__sidebar .progressCircle').each(function() {
             let elementPos = $(this).offset().top;
             let topOfWindow = $(window).scrollTop();
             let percent = $(this).find('.circle').attr('data-percent');
