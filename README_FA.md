@@ -2,10 +2,10 @@
 
 # وب‌سایت شخصی و رزومه سهیل عباس‌نیا (soheilabbasnia.ir)
 
-[![License: MIT](https://img.shields.io/badge/لایسنس-MIT-blue.svg)](LICENSE)
-[![Website: Live](https://img.shields.io/badge/وب‌سایت-soheilabbasnia.ir-success.svg)](https://soheilabbasnia.ir)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Website: Live](https://img.shields.io/badge/Website-soheilabbasnia.ir-success.svg)](https://soheilabbasnia.ir)
 [![Tailwind CSS: 3.x](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Bilingual: EN & FA](https://img.shields.io/badge/زبان-فارسی%20%7C%20انگلیسی-blueviolet.svg)](#)
+[![Bilingual: EN & FA](https://img.shields.io/badge/Language-English%20%7C%20Persian-blueviolet.svg)](#)
 
 [English](README.md) | فارسی
 
