@@ -310,5 +310,33 @@
         return false;
     });
 
+    /* ============================================================ */
+    /* Dynamic Age Calculator
+    /* ============================================================ */
+    function updateAge() {
+        var birthDate = new Date(2006, 10, 12); // 12 November 2006 / 21 Aban 1385
+        var today = new Date();
+        var age = today.getFullYear() - birthDate.getFullYear();
+        var m = today.getMonth() - birthDate.getMonth();
+        if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+            age--;
+        }
+        
+        // Update elements with class or data attribute
+        $('.user-age, #user-age, [data-age]').text(age);
+
+        // Also automatically update any sibling span of "Age:" or "سن:"
+        $('span').filter(function() {
+            var text = $(this).text().trim();
+            return text === 'Age:' || text === 'سن:';
+        }).each(function() {
+            var $val = $(this).siblings('span');
+            if ($val.length) {
+                $val.text(age);
+            }
+        });
+    }
+    updateAge();
+
 })(jQuery);
 // jQuery Ended
