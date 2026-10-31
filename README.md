@@ -11,7 +11,7 @@ The source code of the official personal portfolio and resume website of **Sohei
 
 ---
 
-## 🌟 Overview
+## Overview
 
 This repository hosts the static front-end assets and templates representing my professional profile, projects, certifications, technical articles, and work experience.
 
@@ -23,7 +23,7 @@ Key highlights:
 
 ---
 
-## ✨ Features
+## Features
 
 - **Profile & Resume**: Direct access to downloadable curriculum vitae (AI & Web Engineering tracks).
 - **Project Showcase**: Interactive catalog of open-source libraries, WordPress plugins, AI agents, and web tools.
@@ -32,38 +32,7 @@ Key highlights:
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js 18+ and npm
-
-### Local Development
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/soheilabbasnia/soheilabbasnia.ir.git
-   cd soheilabbasnia.ir
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start Tailwind CSS watch compiler**:
-   ```bash
-   npm run watch
-   ```
-
-4. **Serve locally** (using Vite or any static HTTP server):
-   ```bash
-   npm run dev
-   ```
-
----
-
-## 📁 Project Structure
+## Project Structure
 
 ```text
 soheilabbasnia.ir/
@@ -83,18 +52,8 @@ soheilabbasnia.ir/
 
 ---
 
-## 🤝 Contributing
-
-Suggestions, typo fixes, and constructive feedback are always welcome!
-1. Fork the repository.
-2. Create your branch (`git checkout -b fix/typo-or-feature`).
-3. Commit your changes (`git commit -m 'Fix typo in experience section'`).
-4. Push to your branch (`git push origin fix/typo-or-feature`).
-5. Open a Pull Request.
-
----
-
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 Feel free to use the layout and structure for your own personal portfolio.
+
